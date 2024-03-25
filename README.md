@@ -1,4 +1,10 @@
 <h1 align="center">Алгоритмы и структуры данных, 2022-2024</h1>
-<h1><a href="https://github.com/kryag/ct-itmo-algorithms/tree/main/sem-1" target="_blank">1st semester</a></h1>
-<h1><a href="https://github.com/kryag/ct-itmo-algorithms/tree/main/sem-2" target="_blank">2nd semester</a></h1>
-<h1><a href="https://github.com/kryag/ct-itmo-algorithms/tree/main/sem-3" target="_blank">3rd semester</a></h1>
+
+<h1><a href="https://github.com/kryag/ct-itmo-algorithms/tree/main/sem-1" target="_blank">Первый семестр</a></h1>
+<b>Время работы алгоритма. O-нотация. Квадратичные сортировки. Сортировка слиянием. Два указателя. Двоичная куча. Сортировка кучей. Бинарный и тернарный поиск. Стек. Очередь. Амортизационный анализ. Связные списки. Pointer Machine. Система непересекающихся множеств. Быстрая сортировка. K-я порядковая статистика. Динамическое программирование. Задача о рюкзаке. Наибольшая возрастающая/убывающая подпоследовательность. </b>
+
+<h1><a href="https://github.com/kryag/ct-itmo-algorithms/tree/main/sem-2" target="_blank">Второй семестр</a></h1>
+<b>Дерево отрезков. Дерево Фенвика. Sparse Table. Многомерные структуры данных. Хеш-таблицы. Двоичное дерево поиска. AVL-дерево. Декартово дерево. Splay дерево. LCA. HLD. Центроидная декомпозиция.</b>
+
+<h1><a href="https://github.com/kryag/ct-itmo-algorithms/tree/main/sem-3" target="_blank">Третий семестр</a></h1>
+<b>Обход в глубину. Компоненты сильной связности. Конденсация графа. 2-SAT. Мосты и точки сочленения. Двусвязность. Эйлеровость. Обход в ширину. Алгоритмы Дейкстры и Форда-Беллмана. Алгоритм Флойда. Минимальное остовное дерево. Строки. Префикс-функция и Z-функция. Бор. Ахо-Корасик. Цифровой бор. Суффиксный массив. Корневые оптимизации.</b>
