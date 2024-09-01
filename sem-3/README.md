@@ -7,7 +7,7 @@
 <p><li><a href="https://github.com/kryag/ct-itmo-algorithms/blob/main/sem-3/solutions/1E.cpp" target="_blank">Раскраска в два цвета</a></li></p>
 <p><li><a href="https://github.com/kryag/ct-itmo-algorithms/blob/main/sem-3/solutions/1F.cpp" target="_blank">Topsort</a></li></p>
 <p><li><a href="https://github.com/kryag/ct-itmo-algorithms/blob/main/sem-3/solutions/1G.cpp" target="_blank">Красно-синий граф</a></li></p>
-<p><li>История о кротах</li></p>
+<p><li><a href="https://github.com/kryag/ct-itmo-algorithms/blob/main/sem-3/solutions/1H.go" target="_blank">История о кротах</a></li></p>
 <p><li><a href="https://github.com/kryag/ct-itmo-algorithms/blob/main/sem-3/solutions/1I.cpp" target="_blank">Кратчайший путь</a></li></p>
 <p><li><a href="https://github.com/kryag/ct-itmo-algorithms/blob/main/sem-3/solutions/1J.cpp" target="_blank">Производство деталей</a></li></p>
 <p><li><a href="https://github.com/kryag/ct-itmo-algorithms/blob/main/sem-3/solutions/1K.cpp" target="_blank">Топологическая сортировка</a></li></p>
@@ -68,7 +68,7 @@
 <p><li>Множественный поиск 2</li></p>
 <p><li>Бинарные Вирусы</li></p>
 <p><li>Имя для ребенка</li></p>
-<p><li>Знаки числа Пи</li></p>
+<p><li><a href="https://github.com/kryag/ct-itmo-algorithms/blob/main/sem-3/solutions/9I.go" target="_blank">Знаки числа Пи</a></li></p>
 <p><li>Суффиксный массив</li></p>
 <p><li>Циклические сдвиги</li></p>
 <p><li>Контрольное списывание</li></p>
